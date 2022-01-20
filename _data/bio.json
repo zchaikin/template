@@ -30,29 +30,24 @@
   "interests": [
     {
       "name": "Artificial Intelligence",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Augmented/Virtual Reality",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Education",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Robotics",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Software Engineering",
-      "keywords": [
-      ]
-    },
+      "keywords": []
+    }
   ],
   "skills": [
     {
@@ -89,11 +84,10 @@
         "ICS 211 (Intro to Computer Science II)",
         "ICS 212 (Intro to C/C++ Programming)",
         "ICS 241 (Discrete Math II)",
-        "ICS 311 (Algorithms)", 
+        "ICS 311 (Algorithms)",
         "ICS 314 (Software Engineering I)",
         "ICS 485 (Video Game Design)",
         "ICS 486 (Virtual & Augmntd Reality Programming)"
-        
       ]
     }
   ],
@@ -105,25 +99,26 @@
       "startDate": "2014",
       "endDate": "Present",
       "summary": "Assist with tournament setup and takedown. Create, manage, and update content for the Hawaii Dinosaur Volleyball Tournament Website",
-      "highlights": [
-     ],
-  "volunteer": [
-    {
-      "organization": "Hawaii Preparatory Academy",
-      "website": "",
-      "position": "Summer High School Volleyball Assistant",
-      "startDate": "2018",
-      "endDate": "Present",
-      "summary": "Coaching volleyball through drills and practice matches",
-      "highlights": [
-        "Develop communitative skills and leadership"
+      "highlights": [],
+      "volunteer": [
+        {
+          "organization": "Hawaii Preparatory Academy",
+          "website": "",
+          "position": "Summer High School Volleyball Assistant",
+          "startDate": "2018",
+          "endDate": "Present",
+          "summary": "Coaching volleyball through drills and practice matches",
+          "highlights": [
+            "Develop communitative skills and leadership"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "name": "Available upon request",
+          "reference": ""
+        }
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
