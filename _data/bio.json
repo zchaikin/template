@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Zachary Chaikin",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "zchaikin@hawaii.edu",
+    "phone": "",
+    "website": "https://zchaikin.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,44 +17,42 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "zchaikin",
+        "url": "http://github.com/zchaikin"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Zachary Chaikin",
+        "url": "http://www.linkedin.com/in/zachary-chaikin-8aa9221bb"
       }
     ]
   },
-  "interests": [
+  "Interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Augmented/Virtual Reality",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Education",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Robotics",
       "keywords": [
       ]
     }
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
   ],
   "skills": [
     {
@@ -64,32 +62,38 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Eclipse",
+        "Git/Github",
+        "Windows"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (Expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.67",
       "courses": [
+        "ICS 111 (Intro to Computer Science I)",
+        "ICS 141 (Discrete Math I)",
+        "ICS 211 (Intro to Computer Science II)",
+        "ICS 212 (Intro to C/C++ Programming)",
+        "ICS 241 (Discrete Math II)",
+        "ICS 311 (Algorithms)", 
+        "ICS 314 (Software Engineering I)"
+        "ICS 485 (Video Game Design)"
+        "ICS 486 (Virtual & Augmntd Reality Programming)"
+        
       ]
     }
   ],
