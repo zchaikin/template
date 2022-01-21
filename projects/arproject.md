@@ -10,11 +10,10 @@ labels:
   - Augmented Reality
   - Unity
   - Video Games
-  - 
 summary: An AR COVID-19 killing high score game developed by Zachary Chaikin, Weihang Mai, and Deshay Clemons.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/arproject.PNG">
+<img class="ui image" src="{{ site.baseurl }}/images/arproject.PNG">
 
 All you need is a card for this game to work! When developing the AR game, COVID-19 was a big unknown. Together, teammates Weihang Mai and Deshay Clemons created an AR game to take out our frustrations on COVID-19 that completely uprooted the world in an instance. Achieve high scores by spraying disinfectant to kill the virus while avoiding the virus as it comes towards you. Check out the gameplay trailer here: [Team 6 AR Project](https://www.youtube.com/watch?v=mgysvi5wWYg).
 
