@@ -8,7 +8,6 @@ labels:
   - Software Engineering
 ---
 <img class="ui image" src="{{ site.baseurl }}/images/jstaxi.png">
-
 ## Take a Ride Learning a New Language
 Learning a new language is always a challenging ride. Knowing multiple languages such as C/C++, and Java allows me to connect each language to one another and derive differences and similarities. Although knowing multiple languages certainly helps, the best way towards mastering a language comes with practice.
 
