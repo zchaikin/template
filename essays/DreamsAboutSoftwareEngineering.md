@@ -8,6 +8,7 @@ labels:
   - Past, Present, Future
 ---
 
+<img class="ui image" <iframe src="https://giphy.com/embed/3sfHUZrTvOg8g" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theme-park-roller-coaster-rollercoaster-3sfHUZrTvOg8g">via GIPHY</a></p>
 Learning a new language is always a challenge. Knowing multiple languages such as C/C++, and Java allows me to connect each language to one another and derive differences and similarities. Although knowing multiple languages certainly helps, the best way towards mastering a language comes with practice.
 
 Beginning with the basics, JavaScript was very similar to Java, so the first portion of the freeCodeCamp was a fun review. However, the ES6 section is when content started becoming challenging. Problem by problem, I began to gain more confidence and understand the language and the many shortcuts. Developing a solid foundation allowed me to click with the language and regain optimal pace within the ES6 exercises.
