@@ -10,7 +10,7 @@ labels:
   - Unity
   - Video Games
   - Virtual Reality
-summary: A VR zombie based horror game developed by Zachary Chaikin, Weihang Mai, and Deshay Clemons.
+summary: An VR zombie based horror game developed by Zachary Chaikin, Weihang Mai, and Deshay Clemons.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/vrproject.PNG">
