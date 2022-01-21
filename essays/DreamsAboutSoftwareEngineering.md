@@ -8,13 +8,13 @@ labels:
   - Past, Present, Future
 ---
 
-<img class="ui image" src="https://giphy.com/embed/3sfHUZrTvOg8g">
-Learning a new language is always a challenge. Knowing multiple languages such as C/C++, and Java allows me to connect each language to one another and derive differences and similarities. Although knowing multiple languages certainly helps, the best way towards mastering a language comes with practice.
+<img class="ui image" src="{{ site.baseurl }}/images/evolution.jpg">
 
-Beginning with the basics, JavaScript was very similar to Java, so the first portion of the freeCodeCamp was a fun review. However, the ES6 section is when content started becoming challenging. Problem by problem, I began to gain more confidence and understand the language and the many shortcuts. Developing a solid foundation allowed me to click with the language and regain optimal pace within the ES6 exercises.
+From a young age, I found a connection with technology. There's always something new, simply put, the growth and advancement of technology are exponential, and that's exciting. Often people are in awe of the groundbreaking tech, but I always found myself going the next step to see what makes that run. Seeing the inner components inspires me to create my ideas to solve everyday problems.
 
-After experiencing even more JavaScript with the WODs, I found the language fun. I enjoy challenging my coding in a race against time. The feeling of high-stakes pressure gives me a chance to find a rhythm with the language and never look back. Achieving the time goal reflects my connection and efficiency with the language and proves very satisfying.
+After coding in previous classes, Software Engineering will finally give me a chance to learn the formalities I have been missing. I have been looking forward to this course. I await the future challenges to reach my goal of becoming efficient with coding. In addition to becoming efficient, I hope to gain more proficiency in the design aspect of software engineering.
 
-In all, my experience as I learn JavaScript is comparable to a rollercoaster. At first, problems were easy but slowly built towards an incline as time went on. Practicing and learning the shortcuts and various features of JavaScript helped me reduce that incline and go back to coasting downhill. Even though I know I will be back on that incline as problems become more complex, the tools I have and continue to build on will reduce my time on the uphill and more time on the downhill slopes.
+My dreams require software engineering to solve the puzzle of life I am building. Software and tech give a chance to help a lot of people. This is something that resonates with me. Although I have various passions, the best feeling is making life easier for someone. Whether that's designing and coding a game to help someone escape the pressures of a world, solving a problem, etc., this is where the real gold is.  
 
-I recommend learning JavaScript. The language offers many exclusive features and shortcuts unique to the language. You can easily hop into JavaScript if you are a beginner, and I enjoy that you can use it via multiple platforms such as your computer or phone. The language is constantly evolving and is one of the most popular languages. Having JavaScript in your toolbox will only help you and provide a powerful tool.
+
+
