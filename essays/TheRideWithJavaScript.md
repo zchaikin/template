@@ -7,6 +7,7 @@ labels:
   - Learning a Language
   - Software Engineering
 ---
+<img class="ui image" src="{{ site.baseurl }}/images/jstaxi.png">
 
 Learning a new language is always a challenge. Knowing multiple languages such as C/C++, and Java allows me to connect each language to one another and derive differences and similarities. Although knowing multiple languages certainly helps, the best way towards mastering a language comes with practice.
 
@@ -17,3 +18,5 @@ After experiencing even more JavaScript with the WODs, I found the language fun.
 In all, my experience as I learn JavaScript is comparable to a rollercoaster. At first, problems were easy but slowly built towards an incline as time went on. Practicing and learning the shortcuts and various features of JavaScript helped me reduce that incline and go back to coasting downhill. Even though I know I will be back on that incline as problems become more complex, the tools I have and continue to build on will reduce my time on the uphill and more time on the downhill slopes.
 
 I recommend learning JavaScript. The language offers many exclusive features and shortcuts unique to the language. You can easily hop into JavaScript if you are a beginner, and I enjoy that you can use it via multiple platforms such as your computer or phone. The language is constantly evolving and is one of the most popular languages. Having JavaScript in your toolbox will only help you and provide a powerful tool. 
+
+<img class="ui image" src="{{ site.baseurl }}/images/rollercoaster.jpg">
