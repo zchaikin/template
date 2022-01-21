@@ -13,7 +13,7 @@ labels:
 summary: 2D platformer where you kill corrupted animals each level till finding the source of the corruption in the forest. Developed by Zachary Chaikin, Jeffery Wood, and Dominic Buoni.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/corruptforest.PNG">
+<img class="ui image" src="{{ site.baseurl }}/images/corruptforest.png">
 
 The Corrupt Forrest is a story 2D platformer where you are a Meerkat trying to absolve the corruption from the mysterious source. Parkour using platforms to avoid enemy attacks and use various powerups as you complete each level. Using Unity and the help of teammates Jeffery Wood, and Dominic Buoni we created an fun story game that you can play over and over again. Check out our game's website where you can see the process to build the game, along with the trailer! [The Corrupt Forest Website](https://noclueteamuh.itch.io/noclueproject).
 
