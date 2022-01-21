@@ -5,7 +5,7 @@ image: images/titlevrproject.PNG
 title: VR and Zombies
 permalink: projects/vr-and-zombies
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-13
+date: 2020-01-10
 labels:
   - Unity
   - Video Games
