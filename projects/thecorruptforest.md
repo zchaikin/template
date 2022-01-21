@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/meerkat.PNG
+image: images/meerkat.png
 title: The Corrupt Forest
 permalink: projects/the-corrupt-forest
 # All dates must be YYYY-MM-DD format!
