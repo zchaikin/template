@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/titlevrproject.PNG
 title: VR and Zombies
 permalink: projects/vr-and-zombies
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: A VR zombie based horror game developed by Zachary Chaikin, Weihang Mai, and Deshay Clemons.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/vrproject.PNG">
 
 Put on your VR headset and be transported into a room full of zombies. All you have is axes and a gun to fend off the horde. Using Unity and the help of teammates Weihang Mai and Deshay Clemons, we created an up-close survival experience perfectly fit for VR. Check out our game trailer! [Team 6 VR Project](https://www.youtube.com/watch?v=4vA-BxFFWGI).
 
