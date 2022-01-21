@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/titlearproject.PNG
-title: AR and Killing COVID-19 
-permalink: projects/ar-and-killing-covid-19
+title: AR and Killing COVID 
+permalink: projects/ar-and-killing-covid
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-15
 labels:
