@@ -1,0 +1,21 @@
+---
+layout: project
+type: project
+image: images/titlearproject.PNG
+title: AR and Killing COVID-19 
+permalink: projects/ar-and-killing-covid-19
+# All dates must be YYYY-MM-DD format!
+date: 2020-01-15
+labels:
+  - Augmented Reality
+  - Unity
+  - Video Games
+  - 
+summary: An AR COVID-19 killing high score game developed by Zachary Chaikin, Weihang Mai, and Deshay Clemons.
+---
+
+<img class="ui medium right floated rounded image" src="../images/arproject.PNG">
+
+All you need is a card for this game to work! When developing the AR game, COVID-19 was a big unknown. Together, teammates Weihang Mai and Deshay Clemons created an AR game to take out our frustrations on COVID-19 that completely uprooted the world in an instance. Achieve high scores by spraying disinfectant to kill the virus while avoiding the virus as it comes towards you. Check out the gameplay trailer here: [Team 6 AR Project](https://www.youtube.com/watch?v=mgysvi5wWYg).
+
+ICS 486 (Augmented and Virtual Reality Programming) was my first time using Unity and building an AR video game from scratch. The process of making the game was much easier than the VR game. Keeping the camera steady, making sure the card was detected to display the spray bottle, and coding errors were the only problems to overcome. My contributions to the project include creating multiple scripts (germ movement and germ spawn) and helping with the bullet/spray bottle for interaction with the virus. Also adding sounds to play during actions of the game (spraying, spawning), along with ideas to create more in-game items and collaborating with teammates to bring them to fruition. The AR game was a blast to develop with teammates and see our end product.
