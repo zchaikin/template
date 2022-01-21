@@ -16,5 +16,4 @@ After coding in previous classes, Software Engineering will finally give me a ch
 
 My dreams require software engineering to solve the puzzle of life I am building. Software and tech give a chance to help a lot of people. This is something that resonates with me. Although I have various passions, the best feeling is making life easier for someone. Whether that's designing and coding a game to help someone escape the pressures of a world, solving a problem, etc., this is where the real gold is.  
 
-
-
+<img class="ui image" src="{{ site.baseurl }}/images/dreaming.jpg">
