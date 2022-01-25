@@ -1,129 +1,118 @@
 {
-  "basics": {
-    "name": "Zachary Chaikin",
-    "label": "Student",
-    "picture": "https://zchaikin.github.io/images/zachaikin.PNG",
-    "email": "zchaikin@hawaii.edu",
-    "phone": "",
-    "website": "https://zchaikin.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "zchaikin",
-        "url": "http://github.com/zchaikin"
-      },
-      {
-        "network": "linkedin",
-        "username": "Zachary Chaikin",
-        "url": "http://www.linkedin.com/in/zachary-chaikin-8aa9221bb"
-      }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Artificial Intelligence",
-      "keywords": []
-    },
-    {
-      "name": "Augmented/Virtual Reality",
-      "keywords": []
-    },
-    {
-      "name": "Education",
-      "keywords": []
-    },
-    {
-      "name": "Robotics",
-      "keywords": []
-    },
-    {
-      "name": "Software Engineering",
-      "keywords": []
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "Eclipse",
-        "Git/Github",
-        "MacOS",
-        "Windows"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (Expected Spring, 2023)",
-      "studyType": "B.S.",
-      "startDate": "2019-08-26",
-      "endDate": "Present",
-      "gpa": "3.67",
-      "courses": [
-        "ICS 111 (Intro to Computer Science I)",
-        "ICS 141 (Discrete Math I)",
-        "ICS 211 (Intro to Computer Science II)",
-        "ICS 212 (Intro to C/C++ Programming)",
-        "ICS 241 (Discrete Math II)",
-        "ICS 311 (Algorithms)",
-        "ICS 314 (Software Engineering I)",
-        "ICS 485 (Video Game Design)",
-        "ICS 486 (Virtual & Augmented Reality Programming)"
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Hawaii Dinosaur Volleyball Tournament",
-      "position": "Assistant and Website Manager",
-      "website": "https://hawaiidinosaurvolleyball.com/",
-      "startDate": "2014-03-01",
-      "endDate": "Present",
-      "summary": "Assist with tournament setup and takedown. Create, and manage, content for the Hawaii Dinosaur Volleyball Tournament website.",
-      "highlights": [
-      "Communication"
-      "Web Design" 
-      ],
-    }
-      ],
-      "volunteer": [
-        {
-          "organization": "Hawaii Preparatory Academy",
-          "website": "",
-          "position": "Summer High School Volleyball Assistant",
-          "startDate": "2018-05-01",
-          "endDate": "Present",
-          "summary": "Coaching volleyball through drills and practice matches.",
-          "highlights": [
-          "Communication"
-          "Leadership"
-          ],
-        }
-      ],
-      "references": [
-        {
-          "name": "  Available upon request",
-          "reference": ""
-        }
-      ]
-    }
+	"basics": {
+		"name": "Zachary Chaikin",
+		"label": "Student",
+		"picture": "https://zchaikin.github.io/images/zachaikin.PNG",
+		"email": "zchaikin@hawaii.edu",
+		"phone": "",
+		"website": "https://zchaikin.github.io",
+		"summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "Honolulu",
+			"countryCode": "USA",
+			"region": "Hawaii"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "zchaikin",
+				"url": "http://github.com/zchaikin"
+			},
+			{
+				"network": "linkedin",
+				"username": "Zachary Chaikin",
+				"url": "http://www.linkedin.com/in/zachary-chaikin-8aa9221bb"
+			}
+		]
+	},
+	"interests": [{
+			"name": "Artificial Intelligence",
+			"keywords": []
+		},
+		{
+			"name": "Augmented/Virtual Reality",
+			"keywords": []
+		},
+		{
+			"name": "Education",
+			"keywords": []
+		},
+		{
+			"name": "Robotics",
+			"keywords": []
+		},
+		{
+			"name": "Software Engineering",
+			"keywords": []
+		}
+	],
+	"skills": [{
+			"name": "Languages and Frameworks",
+			"level": "",
+			"keywords": [
+				"C",
+				"C++",
+				"Java",
+				"Javascript"
+			]
+		},
+		{
+			"name": "Toolsets/OS",
+			"level": "",
+			"keywords": [
+				"Eclipse",
+				"Git/Github",
+				"MacOS",
+				"Windows"
+			]
+		}
+	],
+	"education": [{
+		"institution": "University of Hawaii, Honolulu, HI",
+		"area": "Computer Science (Expected Spring, 2023)",
+		"studyType": "B.S.",
+		"startDate": "2019-08-26",
+		"endDate": "Present",
+		"gpa": "3.67",
+		"courses": [
+			"ICS 111 (Intro to Computer Science I)",
+			"ICS 141 (Discrete Math I)",
+			"ICS 211 (Intro to Computer Science II)",
+			"ICS 212 (Intro to C/C++ Programming)",
+			"ICS 241 (Discrete Math II)",
+			"ICS 311 (Algorithms)",
+			"ICS 314 (Software Engineering I)",
+			"ICS 485 (Video Game Design)",
+			"ICS 486 (Virtual & Augmented Reality Programming)"
+		]
+	}],
+	"work": [{
+		"company": "Hawaii Dinosaur Volleyball Tournament",
+		"position": "Assistant and Website Manager",
+		"website": "https://hawaiidinosaurvolleyball.com/",
+		"startDate": "2014-03-01",
+		"endDate": "Present",
+		"summary": "Assist with tournament setup and takedown. Create, and manage, content for the Hawaii Dinosaur Volleyball Tournament website.",
+		"highlights": [
+			"Communication",
+			"Web Design"
+		]
+	}],
+	"volunteer": [{
+		"organization": "Hawaii Preparatory Academy",
+		"website": "",
+		"position": "Summer High School Volleyball Assistant",
+		"startDate": "2018-05-01",
+		"endDate": "Present",
+		"summary": "Coaching volleyball through drills and practice matches.",
+		"highlights": [
+			"Communication",
+			"Leadership"
+		]
+	}],
+	"references": [{
+		"name": "  Available upon request",
+		"reference": ""
+	}]
+}
