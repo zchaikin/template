@@ -15,7 +15,7 @@ Standards are a norm in the world. Everywhere you go, and the people you meet ex
 ## The Essentials: Coding Standards
 In my opinion, it is paramount to have coding standards for software engineers. Every software engineer will have a unique background and ways to approach coding. With such diverse backgrounds, there are going to be differences in quality. Coding standards will create more consistent code quality amongst each software engineer.
 
-<img class="ui image" src="{{ site.baseurl }}/images/eslint.PNG">
+<img class="ui image" src="{{ site.baseurl }}/images/eslint.png">
 
 ## YESLint!
 Before experiencing ESLint, the quality and readability of my prior code are not up to par with my present quality. I have found ESLint helpful to understand JavaScript by the immediate feedback it provides. Experiencing ESLint with IntelliJ, like all coding standards, takes getting used to. Code that used to be acceptable no longer passes due to the various checks ESLint goes through. Yes, it is frustrating (especially at first), but as you continue to practice, you will find you can navigate through all the errors and understand the code that warrants a green checkmark.
