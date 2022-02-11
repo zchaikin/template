@@ -7,8 +7,6 @@ labels:
   - Coding Standards
   - Software Engineering
 ---
-<img class="ui image" src="{{ site.baseurl }}/images/jstaxi.png">
-
 ## The World Standard
 Standards are a norm in the world. Everywhere you go, and the people you meet expect different standards. Without checks/rules, there is too much freedom to expect consistent quality from person to person. Standards are not going anywhere, and with the endless amount there are in the world, you need to adapt and understand them as you continue to grow.
 
