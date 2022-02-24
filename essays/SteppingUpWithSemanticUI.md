@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Stepping Up With Semantic UI
-date: 2022-02-25
+date: 2022-02-24
 labels:
   - Learning Semantic UI
   - Raw HTML and CSS
