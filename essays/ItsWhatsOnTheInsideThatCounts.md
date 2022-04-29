@@ -1,22 +1,22 @@
 ---
 layout: essay
 type: essay
-title: It's Whats On the Inside That Counts
-date: 2022-01-20
+title: It's What's On the Inside That Counts
+date: 2022-04-25
 labels:
-  - Software Engineering
-  - Design Patterns
+- Software Engineering
+- Design Patterns
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/swissarmyknife.png">
+<img class="ui small image" src="{{ site.baseurl }}/images/swissarmyknife.png">
 
-## Design
-From a young age, I found a connection with technology. There's always something new, simply put, the growth and advancement of technology are exponential, and that's exciting. Often people are in awe of the groundbreaking tech, but I always found myself going the next step to see what makes that run. Seeing the inner components inspires me to create my ideas to solve everyday problems.
+## InDesign Patterns not OutDesign Patterns
+Before the Design Patterns Module, I assumed design patterns were references to designing hooking external and visual elements. Quickly I learned design patterns to deal directly with internal reoccurring issues and problems. Although design pattern associates with programming, we see them all over. All people desire to attain or develop design patterns in their life. After all, they make life easier by providing versatile yet simplified solutions to solve multiple situations you may encounter.
 
-## Previous Experience and Future Goals
-After coding in previous classes, I have never learned about the little things that make all the difference. Software Engineering will finally give me a chance to learn the formalities I have been missing. I have been looking forward to this course. I await the future challenges to reach my goal of becoming efficient with coding. In addition to becoming efficient, I hope to gain more proficiency in the design aspect of software engineering.
+## Not a Bird or a Plane or Superman, but a Design Pattern!
+Easy to understand, efficient, functioning, and versatile, these are the powers of design patterns. Superman and design patterns are one and the same. However, from my interpretation, design patterns are most comparable to swiss army knives. Every software engineer should prioritize a swiss army knife implementation upon their code. Doing so creates productive and reusable code that is simple to follow, like a recipe. Although it is great to have multiple tools in your toolbox, a swiss army knife condenses what you need to carry, so the question is, why to solve different issues with unique solutions when you can have a general solution to solve all in one.
 
-## Completing the Puzzle 
-My dreams require software engineering to add another piece to the puzzle to achieve a complete build towards a B.S. in Computer Science. Software and tech give a chance to help a lot of people. This is something that resonates with me. Although I have various passions, the best feeling is making life easier for someone. Whether that's designing and coding a game to help someone escape the pressures of a world, solving a problem, etc., this is where the real gold is.
+## Craving a Design Pattern
+Warrior Cravings, my ICS-314 Final Project, with group members [Christine Nakano](https://cknakano.github.io/), [Jase Ishimi](https://ishimi8.github.io/), [Louie Bala](https://louie808.github.io/), and [Mahie Crabbe](https://mahi3crab.github.io/), are designing a one-stop-shop for UH students/faculty and Vendors to view and display different food available on campus. So far, there are examples of observer design patterns, such as the filter system in the Warrior Craving application, to name one. From this point on, I see myself implementing design patterns to help create better interaction from a user standpoint while also helping group members see my code as a recipe rather than a cipher.
 
-<img class="ui image" src="{{ site.baseurl }}/images/dreaming.jpg">
+The world is full of design patterns, and as I strive to be the best software engineer I can be, it is paramount to master them to achieve this goal. Acquiring this swiss army knife allows me to navigate many issues and pass it on to others to pick up where I left off. Whether it is the Warrior Cravings collaborative final project or a company setting, this is vital to success. Design starts on the inside, and that's what counts!
