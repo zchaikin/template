@@ -8,7 +8,7 @@ labels:
   - Design Patterns
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/swissarmyknife.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/swissarmyknife.png">
 
 ## Design
 From a young age, I found a connection with technology. There's always something new, simply put, the growth and advancement of technology are exponential, and that's exciting. Often people are in awe of the groundbreaking tech, but I always found myself going the next step to see what makes that run. Seeing the inner components inspires me to create my ideas to solve everyday problems.
