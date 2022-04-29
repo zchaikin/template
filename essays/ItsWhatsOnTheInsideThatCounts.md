@@ -8,11 +8,10 @@ labels:
 - Design Patterns
 ---
 
-<img class="ui small image" src="{{ site.baseurl }}/images/swissarmyknife.png">
-
 ## InDesign Patterns not OutDesign Patterns
 Before the Design Patterns Module, I assumed design patterns were references to designing hooking external and visual elements. Quickly I learned design patterns to deal directly with internal reoccurring issues and problems. Although design pattern associates with programming, we see them all over. All people desire to attain or develop design patterns in their life. After all, they make life easier by providing versatile yet simplified solutions to solve multiple situations you may encounter.
 
+<img class="ui small right floated rounded image" src="../images/swissarmyknife.png">
 ## Not a Bird or a Plane or Superman, but a Design Pattern!
 Easy to understand, efficient, functioning, and versatile, these are the powers of design patterns. Superman and design patterns are one and the same. However, from my interpretation, design patterns are most comparable to swiss army knives. Every software engineer should prioritize a swiss army knife implementation upon their code. Doing so creates productive and reusable code that is simple to follow, like a recipe. Although it is great to have multiple tools in your toolbox, a swiss army knife condenses what you need to carry, so the question is, why to solve different issues with unique solutions when you can have a general solution to solve all in one.
 
