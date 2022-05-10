@@ -23,4 +23,3 @@ In all, my experience as I learn JavaScript is comparable to a rollercoaster. At
 ## Another Tool in the Toolbox
 I recommend learning JavaScript. The language offers many exclusive features and shortcuts unique to the language. You can easily hop into JavaScript if you are a beginner, and I enjoy that you can use it via multiple platforms such as your computer or phone. The language is constantly evolving and is one of the most popular languages. Having JavaScript in your toolbox will only help you and provide a powerful tool. 
 
-<img class="ui image" src="{{ site.baseurl }}/images/toolbox.jpg">
