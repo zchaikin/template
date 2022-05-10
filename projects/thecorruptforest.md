@@ -7,10 +7,10 @@ permalink: projects/the-corrupt-forest
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-10
 labels:
-- Unity
-- Video Games
-- 2D Platformer
-  summary: 2D platformer where you kill corrupted animals on each level till finding the source of the corruption in the forest. Developed by Zachary Chaikin, Jeffery Wood, and Dominic Buoni.
+  - Unity
+  - Video Games
+  - 2D Platformer 
+summary: 2D platformer where you kill corrupted animals on each level till finding the source of the corruption in the forest. Developed by Zachary Chaikin, Jeffery Wood, and Dominic Buoni.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/corruptforest.png">

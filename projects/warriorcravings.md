@@ -7,12 +7,12 @@ permalink: projects/the-corrupt-forest
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-10
 labels:
-- IntelliJ
-- Javascript
-- Semantic UI
-- Meteor
-- Web Development
-  summary: Warrior Cravings is a web application designed to be a one-stop shop for UH students and vendors to see all the different food available on campus. Developed by Zachary Chaikin, Mahie Crabbe, Louie Bala, and Christine Nakano.
+  - IntelliJ
+  - Javascript
+  - Semantic UI
+  - Meteor
+  - Web Development 
+summary: Warrior Cravings is a web application designed to be a one-stop shop for UH students and vendors to see all the different food available on campus. Developed by Zachary Chaikin, Mahie Crabbe, Louie Bala, and Christine Nakano.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/warriorcravings-landing.png">

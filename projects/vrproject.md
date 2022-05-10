@@ -7,10 +7,10 @@ permalink: projects/vr-and-zombies
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-10
 labels:
-- Unity
-- Video Games
-- Virtual Reality
-  summary: An VR zombie-based horror game developed by Zachary Chaikin, Weihang Mai, and Deshay Clemons.
+  - Unity
+  - Video Games
+  - Virtual Reality 
+summary: An VR zombie-based horror game developed by Zachary Chaikin, Weihang Mai, and Deshay Clemons.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/vrproject.PNG">
