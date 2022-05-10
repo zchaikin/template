@@ -22,3 +22,5 @@ Warrior Cravings is a web application designed for UH faculty/students to view f
 
 ## The Warrior Cravings Experience
 ICS 314 (Software Engineering I) introduced me to Github, and after constantly practicing with it, it was time to use it for the final project. Although most of the time we were apart, each group member knew their assignment via the GitHub project boards keeping us in sync with each other. My contributions to the project include creating the vendor pages (add, edit, list vendors, my vendor profile), creating the feeling hungry feature, along with helping solve many other issues that arose. Although this certainly was a lengthy process, it was a great experience to collaborate using GitHub and see all our different branches, commits, and merges come together to create a running web application.
+
+<img class="ui image" src="{{ site.baseurl }}/images/warriorcravings-feelinghungry.png">
