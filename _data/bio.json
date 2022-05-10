@@ -57,7 +57,11 @@
 		"C",
 		"C++",
 		"Java",
-		"Javascript"
+		"Javascript",
+		"Meteor",
+		"MongoDB",
+		"React",
+		"Semantic UI"
 		]
 		},
 		{
@@ -66,6 +70,7 @@
 		"keywords": [
 		"Eclipse",
 		"Git/Github",
+		"IntelliJ",
 		"MacOS",
 		"Windows"
 		]
@@ -102,7 +107,7 @@
 		"summary": "Assist with tournament setup and takedown. Create, and manage, content for the Hawaii Dinosaur Volleyball Tournament website.",
 		"highlights": [
 		"Communication",
-		"Web Design",
+		"Web Design"
 		]
 		}
 	],
@@ -115,7 +120,7 @@
 		"summary": "Coaching volleyball through drills and practice matches.",
 		"highlights": [
 		"Communication",
-		"Leadership",
+		"Leadership"
 		]
 		}
 	],
