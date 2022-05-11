@@ -5,7 +5,6 @@ title: Stepping Up With Semantic UI
 date: 2022-02-24
 labels:
   - Learning Semantic UI
-  - Raw HTML and CSS
   - Software Engineering
 ---
 ## Starting Simple
