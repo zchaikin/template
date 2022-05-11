@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: The Art of Smart Questions
 date: 2022-01-25
+draft: true
 labels:
   - Asking Smart Questions
   - Software Engineering

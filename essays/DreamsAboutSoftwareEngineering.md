@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: Dreams About Software Engineering 
 date: 2022-01-20
+draft: true
 labels:
   - Software Engineering
   - Past, Present, Future
