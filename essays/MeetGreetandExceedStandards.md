@@ -11,7 +11,7 @@ labels:
 Standards are a norm in the world. Everywhere you go, and the people you meet expect different standards. Without checks or rules, there is too much freedom to expect consistent quality from person to person. No matter if the standard is low or high it is important to meet and/or exceed them. Standards are not going anywhere, and with the endless amount there are in the world, you need to adapt and understand them as you continue to grow.
 
 ## The Essentials: Coding Standards
-In my opinion, it is paramount to have coding standards for software engineers. Every software engineer will have a unique background and ways to approach coding. With such diverse backgrounds, there are going to be differences in style, quanity and quality. Coding standards will create more consistent code quality amongst each software engineer.
+In my opinion, it is paramount to have coding standards for software engineers. Every software engineer will have a unique background and ways to approach coding. With such diverse backgrounds, there are going to be differences in style, quantity and quality. Coding standards will create more consistent code quality amongst each software engineer.
 
 ## YESLint!
 <img class="ui small right floated rounded image" src="../images/eslint.png">
