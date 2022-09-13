@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/titlearproject.PNG
 title: AR and Killing COVID 
-permalink: projects/ar-and-killing-covid
+permalink: projects/arproject
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-15
 labels:
