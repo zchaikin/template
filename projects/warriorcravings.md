@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/titlewarriorcravings.png
 title: Warrior Cravings
-permalink: projects/the-corrupt-forest
+permalink: projects/warrior-cravings
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-10
 labels:
