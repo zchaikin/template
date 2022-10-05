@@ -18,7 +18,7 @@ summary: Cholera visualization using data from the London Cholera Outbreak in 18
 <img class="ui image" src="{{ site.baseurl }}/images/cholera-landing.png">
 
 ## Summary:
-The Cholera Project (Project 1) is a data visualization of the 1854 London Cholera Outbreak, Naples Outbreak, and the 1851 UK Census of Gender Population Distribution. Using Dash/Plotly, the visualization reads from CSV and TSV files to display each chart (bar, map, pie, table) for readers to understand the whole picture of the Cholera Outbreak. To view the entire visualization, see [Cholera Visualization](https://zchaikin.github.io/zchaikin_cholera.github.io/).
+The Cholera Project (Project 1) is a data visualization of the 1854 London Cholera Outbreak, Naples Outbreak, and the 1851 UK Census of Gender Population Distribution. Using Dash/Plotly, the visualization reads from CSV and TSV files to display each chart (bar, map, pie, table) for readers to understand the whole picture of the Cholera Outbreak. To view the entire visualization, see [Cholera Visualization](overview.html).
 
 
 ## Cholera Project Experience

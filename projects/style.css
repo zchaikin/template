@@ -1,0 +1,25 @@
+.ui.borderless.topmenu.container.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.overview-background {
+  background-color: lightgrey;
+  background-size: cover;
+  color: white;
+  font-family: Arial;
+  font-size: 15px;
+}
+
+.main-background {
+  color: white;
+  font-family: Arial;
+  font-size: 15px;
+}
+
+.footer-background {
+  background-color: grey;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
