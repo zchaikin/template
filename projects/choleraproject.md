@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cholera.png
+image: images/cholera-visualization.png
 title: Cholera Visualization
 permalink: projects/cholera-visualization
 # All dates must be YYYY-MM-DD format!
