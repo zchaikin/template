@@ -78,12 +78,12 @@
 	],
 	"education": [
 		{
-		"institution": "University of Hawaii, Honolulu, HI",
+		"institution": "The University of Hawaii, Honolulu, HI",
 		"area": "Computer Science (Expected Spring, 2023)",
 		"studyType": "B.S.",
 		"startDate": "2019-08-26",
-		"endDate": "Present",
-		"gpa": "3.67",
+		"endDate": "2023-05-13",
+		"gpa": "3.61",
 		"courses": [
 		"ICS 111 (Intro to Computer Science I)",
 		"ICS 141 (Discrete Math I)",
@@ -91,8 +91,12 @@
 		"ICS 212 (Intro to C/C++ Programming)",
 		"ICS 241 (Discrete Math II)",
 		"ICS 311 (Algorithms)",
+		"ICS 312 (Machine-Level & Systems Programing)",
+		"ICS 313 (Programming Language Theory)",
 		"ICS 314 (Software Engineering I)",
 		"ICS 332 (Operating Systems)",
+		"ICS 427 (Software Quality Assurance)",
+		"ICS 464 (Human Computer Interaction I)",
 		"ICS 484 (Data Visualization)",
 		"ICS 485 (Video Game Design)",
 		"ICS 486 (Virtual & Augmented Reality Programming)"
