@@ -4,9 +4,9 @@
 	"label": "Student",
 	"picture": "https://zchaikin.github.io/images/zachaikin.PNG",
 	"email": "zchaikin@hawaii.edu",
-	"phone": "(808) 640-5535",
+	"phone": "",
 	"website": "https://zchaikin.github.io",
-	"summary": "I am a May 2023 graduate with a B.S. in Computer Science from the University of Hawaii.",
+	"summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
 	"location": {
 	"address": "",
 	"postalCode": "",
@@ -33,23 +33,11 @@
 		"keywords": []
 		},
 		{
-		"name": "Augmented Reality",
-		"keywords": []
-		},
-		{
-		"name": "Computer Science",
-		"keywords": []
-		},
-		{
-		"name": "Data Visualizations",
+		"name": "Augmented/Virtual Reality",
 		"keywords": []
 		},
 		{
 		"name": "Education",
-		"keywords": []
-		},
-		{
-		"name": "Game Design/Development",
 		"keywords": []
 		},
 		{
@@ -59,46 +47,31 @@
 		{
 		"name": "Software Engineering",
 		"keywords": []
-		},
-		{
-		"name": "Sports Analytics/Science",
-		"keywords": []
-		},
-		{
-		"name": "Virtual Reality",
-		"keywords": []
 		}
 	],
 	"skills": [
 		{
-		"name": "Frameworks and Languages",
+		"name": "Languages and Frameworks",
 		"level": "",
 		"keywords": [
 		"C",
 		"C++",
-		"CSS",
-		"HTML",
 		"Java",
 		"Javascript",
 		"Meteor",
-		"Python",
+		"MongoDB",
 		"React",
-		"Semantic UI",
-		"Unity"
+		"Semantic UI"
 		]
 		},
 		{
-		"name": "OS and Tools",
+		"name": "Toolsets/OS",
 		"level": "",
 		"keywords": [
 		"Eclipse",
 		"Git/Github",
 		"IntelliJ",
 		"MacOS",
-		"Oculus",
-		"Plotly",
-		"Unix",
-		"Visual Studio",
 		"Windows"
 		]
 		}
@@ -142,30 +115,6 @@
 		"The Ability to work and thrive in a high-pressure environment.",
 		"Design and manage a website to optimize user experience.",
 		"Efficiently communicate and coordinate with 120+ teams."
-		]
-		},
-		{
-		"company": "Miscellaneous Volleyball Tournaments, Queens Beach",
-		"position": "Co-Director",
-		"website": "",
-		"startDate": "2020-01-01",
-		"endDate": "Present",
-		"summary": "Design and organize brackets for game schedules using web applications. Also, co-direct and run the tournaments.",
-		"highlights": [
-		"Design and organize tournament formats for enhanced competition.",
-		"Valuable expertise in event planning and time management."
-		]
-		},
-		{
-		"company": "Summer High School Volleyball Assistant, Kamuela",
-		"position": "Player Development",
-		"website": "",
-		"startDate": "2018-01-01",
-		"endDate": "2020-01-01",
-		"summary": "Assist with player development of high school volleyball players to achieve individual and team growth.",
-		"highlights": [
-		"Develop strong communication and strong qualities of leadership.",
-		"Mentor student-athletes to help them achieve individual and team growth."
 		]
 		}
 	]
