@@ -4,9 +4,9 @@
 	"label": "Student",
 	"picture": "https://zchaikin.github.io/images/zachaikin.PNG",
 	"email": "zchaikin@hawaii.edu",
-	"phone": "",
+	"phone": "(808) 640-5535",
 	"website": "https://zchaikin.github.io",
-	"summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+	"summary": "I am a May 2023 graduate with a B.S. in Computer Science from the University of Hawaii.",
 	"location": {
 	"address": "",
 	"postalCode": "",
@@ -33,11 +33,23 @@
 		"keywords": []
 		},
 		{
-		"name": "Augmented/Virtual Reality",
+		"name": "Augmented Reality",
+		"keywords": []
+		},
+		{
+		"name": "Computer Science",
+		"keywords": []
+		},
+		{
+		"name": "Data Visualizations",
 		"keywords": []
 		},
 		{
 		"name": "Education",
+		"keywords": []
+		},
+		{
+		"name": "Game Design/Development",
 		"keywords": []
 		},
 		{
@@ -47,31 +59,46 @@
 		{
 		"name": "Software Engineering",
 		"keywords": []
+		},
+		{
+		"name": "Sports Analytics/Science",
+		"keywords": []
+		},
+		{
+		"name": "Virtual Reality",
+		"keywords": []
 		}
 	],
 	"skills": [
 		{
-		"name": "Languages and Frameworks",
+		"name": "Frameworks and Languages",
 		"level": "",
 		"keywords": [
 		"C",
 		"C++",
+		"CSS",
+		"HTML",
 		"Java",
 		"Javascript",
 		"Meteor",
-		"MongoDB",
+		"Python",
 		"React",
-		"Semantic UI"
+		"Semantic UI",
+		"Unity"
 		]
 		},
 		{
-		"name": "Toolsets/OS",
+		"name": "OS and Tools",
 		"level": "",
 		"keywords": [
 		"Eclipse",
 		"Git/Github",
 		"IntelliJ",
 		"MacOS",
+		"Oculus",
+		"Plotly",
+		"Unix",
+		"Visual Studio",
 		"Windows"
 		]
 		}
@@ -103,37 +130,32 @@
 		]
 		}
 	],
-	"work": [
+	"experience": [
 		{
 		"company": "Hawaii Dinosaur Volleyball Tournament",
 		"position": "Assistant and Website Manager",
 		"website": "https://hawaiidinosaurvolleyball.com/",
 		"startDate": "2014-03-01",
 		"endDate": "Present",
-		"summary": "Assist with tournament setup and takedown. Create, and manage, content for the Hawaii Dinosaur Volleyball Tournament website.",
+		"summary": "Assist in setting up, communicating, and coordinating 120+ teams across six courts over three days. Also, create and manage content for the Hawaii Dinosaur Volleyball Tournament website.",
 		"highlights": [
-		"Communication",
-		"Web Design"
+		"The Ability to work and thrive in a high-pressure environment.",
+		"Design and manage a website to optimize user experience.",
+		"Efficiently communicate and coordinate with 120+ teams."
 		]
-		}
-	],
-	"volunteer": [{
-		"organization": "Hawaii Preparatory Academy",
-		"website": "",
-		"position": "Summer High School Volleyball Assistant",
-		"startDate": "2018-05-01",
-		"endDate": "2020-05-01",
-		"summary": "Coaching volleyball through drills and practice matches.",
-		"highlights": [
-		"Communication",
-		"Leadership"
-		]
-		}
-	],
-	"references": [
+		},
 		{
-		"name": "  Available upon request",
-		"reference": ""
-	}
-	]
+		"company": "Hawaii Dinosaur Volleyball Tournament",
+		"position": "Assistant and Website Manager",
+		"website": "https://hawaiidinosaurvolleyball.com/",
+		"startDate": "2014-03-01",
+		"endDate": "Present",
+		"summary": "Assist in setting up, communicating, and coordinating 120+ teams across six courts over three days. Also, create and manage content for the Hawaii Dinosaur Volleyball Tournament website.",
+		"highlights": [
+		"The Ability to work and thrive in a high-pressure environment.",
+		"Design and manage a website to optimize user experience.",
+		"Efficiently communicate and coordinate with 120+ teams."
+		]
+		}
+	],
 }
