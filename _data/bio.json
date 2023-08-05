@@ -132,7 +132,7 @@
 	],
 	"experience": [
 		{
-		"company": "Hawaii Dinosaur Volleyball Tournament",
+		"company": "Hawaii Dinosaur Volleyball Tournament, Kauai",
 		"position": "Assistant and Website Manager",
 		"website": "https://hawaiidinosaurvolleyball.com/",
 		"startDate": "2014-03-01",
@@ -145,17 +145,30 @@
 		]
 		},
 		{
-		"company": "Hawaii Dinosaur Volleyball Tournament",
-		"position": "Assistant and Website Manager",
-		"website": "https://hawaiidinosaurvolleyball.com/",
-		"startDate": "2014-03-01",
+		[
+		"company": "Miscellaneous Volleyball Tournaments, Queens Beach",
+		"position": "Co-Director",
+		"website": "",
+		"startDate": "2020-01-01",
 		"endDate": "Present",
-		"summary": "Assist in setting up, communicating, and coordinating 120+ teams across six courts over three days. Also, create and manage content for the Hawaii Dinosaur Volleyball Tournament website.",
+		"summary": "Design and organize brackets for game schedules using web applications. Also, co-direct and run the tournaments.",
 		"highlights": [
-		"The Ability to work and thrive in a high-pressure environment.",
-		"Design and manage a website to optimize user experience.",
-		"Efficiently communicate and coordinate with 120+ teams."
+		"Design and organize tournament formats for enhanced competition.",
+		"Valuable expertise in event planning and time management."
 		]
-		}
+		},
+		{
+		[
+		"company": "Summer High School Volleyball Assistant, Kamuela",
+		"position": "Player Development",
+		"website": "",
+		"startDate": "2018-01-01",
+		"endDate": "2020-01-01",
+		"summary": "Assist with player development of high school volleyball players to achieve individual and team growth.",
+		"highlights": [
+		"Develop strong communication and strong qualities of leadership.",
+		"Mentor student-athletes to help them achieve individual and team growth."
+		]
+		},
 	],
 }
