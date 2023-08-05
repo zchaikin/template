@@ -1,12 +1,12 @@
 {
 	"basics": {
 	"name": "Zachary Chaikin",
-	"label": "Student",
+	"label": "Graduate",
 	"picture": "https://zchaikin.github.io/images/zachaikin.PNG",
 	"email": "zchaikin@hawaii.edu",
-	"phone": "",
+	"phone": "(808) 640-5535",
 	"website": "https://zchaikin.github.io",
-	"summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+	"summary": "I am a May 2023 graduate with a B.S. in Computer Science from the University of Hawaii.",
 	"location": {
 	"address": "",
 	"postalCode": "",
@@ -71,7 +71,7 @@
 	],
 	"skills": [
 		{
-		"name": "Frameworks and Languages",
+		"name": "Frameworks/Languages",
 		"level": "",
 		"keywords": [
 		"C",
