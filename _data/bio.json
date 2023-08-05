@@ -106,8 +106,8 @@
 	"education": [
 		{
 		"institution": "The University of Hawaii, Honolulu, HI",
-		"area": "Computer Science",
-		"studyType": "B.S.",
+		"area": "B.S. Computer Science",
+		"studyType": "",
 		"startDate": "2019-08-26",
 		"endDate": "2023-05-13",
 		"gpa": "3.61",
@@ -123,7 +123,7 @@
 		"ICS 314 (Software Engineering I)",
 		"ICS 332 (Operating Systems)",
 		"ICS 427 (Software Quality Assurance)",
-		"ICS 464 (Human Computer Interaction I)",
+		"ICS 464 (Human-Computer Interaction I)",
 		"ICS 484 (Data Visualization)",
 		"ICS 485 (Video Game Design)",
 		"ICS 486 (Virtual & Augmented Reality Programming)"
@@ -167,12 +167,6 @@
         	"Develop strong communication and strong qualities of leadership.",
 		"Mentor student-athletes to help them achieve individual and team growth."
       		]
-    		}
-  		],
-	"references": [
-    		{
-      		"name": "Available upon request",
-      		"reference": ""
     		}
   	]
 }
