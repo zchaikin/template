@@ -33,11 +33,23 @@
 		"keywords": []
 		},
 		{
-		"name": "Augmented/Virtual Reality",
+		"name": "Augmented Reality",
+		"keywords": []
+		},
+		{
+		"name": "Computer Science",
+		"keywords": []
+		},
+		{
+		"name": "Data Visualizations",
 		"keywords": []
 		},
 		{
 		"name": "Education",
+		"keywords": []
+		},
+		{
+		"name": "Game Design/Development",
 		"keywords": []
 		},
 		{
@@ -47,31 +59,46 @@
 		{
 		"name": "Software Engineering",
 		"keywords": []
+		},
+		{
+		"name": "Sports Analytics/Science",
+		"keywords": []
+		},
+		{
+		"name": "Virtual Reality",
+		"keywords": []
 		}
 	],
 	"skills": [
 		{
-		"name": "Languages and Frameworks",
+		"name": "Frameworks and Languages",
 		"level": "",
 		"keywords": [
 		"C",
 		"C++",
+		"CSS",
+		"HTML",
 		"Java",
 		"Javascript",
 		"Meteor",
-		"MongoDB",
+		"Python",
 		"React",
-		"Semantic UI"
+		"Semantic UI",
+		"Unity"
 		]
 		},
 		{
-		"name": "Toolsets/OS",
+		"name": "OS and Tools",
 		"level": "",
 		"keywords": [
 		"Eclipse",
 		"Git/Github",
 		"IntelliJ",
 		"MacOS",
+		"Oculus",
+		"Plotly",
+		"Unix",
+		"Visual Studio",
 		"Windows"
 		]
 		}
