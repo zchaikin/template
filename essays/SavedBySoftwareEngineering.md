@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: Saved By Software Engineering
 date: 2022-05-10
+draft: true
 labels:
 - Career Development
 - Software Engineering
