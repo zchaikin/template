@@ -6,7 +6,7 @@
 	"email": "zchaikin@hawaii.edu",
 	"phone": "(808) 640-5535",
 	"website": "https://zchaikin.github.io",
-	"summary": "I am a May 2023 graduate with a B.S. in Computer Science from the University of Hawaii.",
+	"summary": "May 2023 Graduate with a B.S. in Computer Science from the University of Hawaii at Manoa with Professional Experience in IT Support, and Web Development/Management.",
 	"location": {
 	"address": "",
 	"postalCode": "",
@@ -79,7 +79,7 @@
 		"CSS",
 		"HTML",
 		"Java",
-		"Javascript",
+		"JavaScript",
 		"Meteor",
 		"Python",
 		"React",
@@ -91,15 +91,22 @@
 		"name": "OS and Tools",
 		"level": "",
 		"keywords": [
+		"DaVinci Resolve",
 		"Eclipse",
 		"Git/Github",
+		"Google Sheets",
 		"IntelliJ",
+		"JotForm",
+		"Linux",
 		"MacOS",
+		"Microsoft 365",
 		"Oculus",
 		"Plotly",
 		"Unix",
 		"Visual Studio",
-		"Windows"
+		"Windows",
+		"WordPress",
+		"YouTube"
 		]
 		}
 	],
@@ -128,20 +135,50 @@
 		"ICS 485 (Video Game Design)",
 		"ICS 486 (Virtual & Augmented Reality Programming)"
 		]
+		},
+		{
+		"institution": "The University of Redlands, Redlands, CA",
+		"area": "Pursuing B.S. Computer Science",
+		"studyType": "May 2019",
+		"startDate": "2018-08-26",
+		"endDate": "2019-05-13",
+		"gpa": "3.61",
+		"courses": [
+		]
 		}
 	],
 	"work": [
     		{
-      		"company": "Hawaii Dinosaur Volleyball Tournament, Kauai",
-      		"position": "Assistant and Website Manager",
+      		"company": "Insightful Publications, Kona, Hawai",
+      		"position": "IT Support and Website Manager",
+      		"website": " https://in-sightful.com/",
+     		"startDate": "2023-08-01",
+      		"endDate": "Present",
+      		"summary": "",
+      		"highlights": [
+       		"Clean up and modernize the website from plain HTML with WordPress.",
+		"Implement accessibility features for the blind and visually impaired with the WCAG.",
+		"Provide IT consultations on new and emerging software and technology.",
+		"Set up desktop computers and update software to the latest versions."
+      		]
+    		},
+		{
+      		"company": "Hawaii Dinosaur Volleyball Tournament, Lihue, Kauai",
+      		"position": "Assistant Director, IT Support and Website Manager",
       		"website": "https://hawaiidinosaurvolleyball.com/",
      		"startDate": "2014-03-01",
       		"endDate": "Present",
       		"summary": "",
       		"highlights": [
-       		"The Ability to work and thrive in a high-pressure environment.",
-		"Design and manage a website to optimize user experience.",
-		"Efficiently communicate and coordinate with 120+ teams."
+       		"Adapt to new software and technologies to enhance and modernize the tournament.",
+		"Assist in setting up the livestream for the event and creating content on YouTube.",
+		"Attain the ability to work and thrive in a high-pressure environment.",
+		"Build a user database while supporting and updating any user changes or issues.",
+		"Create custom calculations to automate processes with Google Sheets.",
+		"Design user forms integrating conditional logic and efficient workflows with JotForm.",
+		"Develop and manage the website to optimize user experience and showcase the event.",
+		"Efficiently communicate and coordinate with 120+ teams.",
+		"Provide IT consultations on new and emerging software and technology."
       		]
     		},
     		{
@@ -152,8 +189,9 @@
       		"endDate": "Present",
       		"summary": "",
       		"highlights": [
-        	"Design and organize tournament formats for enhanced competition.",
-		"Valuable expertise in event planning and time management."
+        	"Acquire extensive experience in strategic event planning and time management.",
+		"Design tournament formats to elevate competitive standards and engage participants.",
+		"Inspire participation at all levels and cultivate a passion for volleyball."
       		]
     		},
     		{
@@ -164,7 +202,7 @@
       		"endDate": "2020-01-01",
       		"summary": "",
       		"highlights": [
-        	"Develop strong communication and strong qualities of leadership.",
+        	"Develop strong communication and qualities of leadership.",
 		"Mentor student-athletes to help them achieve individual and team growth."
       		]
     		}
