@@ -91,21 +91,30 @@
 		"name": "OS and Tools",
 		"level": "",
 		"keywords": [
+		"Axis",
+		"C-Panel",
 		"DaVinci Resolve",
 		"Eclipse",
 		"Git/Github",
+		"GoDaddy",
 		"Google Sheets",
+		"GoTo Assist",
 		"IntelliJ",
 		"JotForm",
 		"Linux",
 		"MacOS",
 		"Microsoft 365",
+		"N-Able RMM",
 		"Oculus",
 		"Plotly",
+		"Remote Desktop",
+		"RTSP",
 		"Unix",
 		"Visual Studio",
 		"Windows",
 		"WordPress",
+		"Ubiquiti",
+		"VOIP",
 		"YouTube"
 		]
 		}
@@ -148,6 +157,29 @@
 		}
 	],
 	"work": [
+		{
+		"company": "Hawaii Networks, Kauai",
+		"position": "Admin, Field Technician, IT Support, Website Developer/Manager",
+		"website": "https://www.hawaiinetworks.com/",
+		"startDate": "2024-09-01",
+		"endDate": "Present",
+		"summary": "",
+		"highlights": [
+		"Assemble server racks and deploy Ubiquity access points/POE switches/UDMs to optimize network infrastructure.",
+		"Build and configure PCs, desktops, and monitors for customers, installing remote support and security agents.",
+		"Create a new, updated website for Hawaii Networks.",
+		"Design Kauai Beach Volleyball’s website (https://www.kauaibeachvolleyball.org/), establishing its digital footprint.",
+		"Diagnose and remove malware infections from PCs, restoring functionality and security.",
+		"Implement and maintain security systems for homes and businesses.",
+		"Install audio equipment, Sonos speakers, and TVs for homes and businesses.",
+		"Livestream beach events (Kauai Beach Volleyball/Hawaii Dinosaur Tournament) using a Ubiquiti bridge for Wi-Fi access with RTSP connection for cameras to stream with OBS to YouTube.",
+		"Manage users on remote desktop servers and resolve any access issues or other problems.",
+		"Organize and manage the business inventory to improve operational efficiency. Currently working on customizing open-source inventory management software to improve operations and workflows further.",
+		"Provide IT consultations, troubleshooting, and tailored solutions for complex technical challenges.",
+		"Remote support customers with any issues and solve them to allow them to continue with their systems without trouble.",
+		"Set up VOIP systems for clients."
+		]
+		},
     		{
       		"company": "Insightful Publications, Kona, Hawai",
       		"position": "IT Support and Website Manager",
